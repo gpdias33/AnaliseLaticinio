@@ -25,3 +25,6 @@ Para este projeto foram utilizadas as seguintes tecnologias:
 #### Print Dashboard:
 
 ![image](https://github.com/user-attachments/assets/800530a1-4789-43eb-a59d-d9d44cc30b66)
+
+#### Fonte de Dados:
+- Informações extraídas de banco de dados proprietário e modificadas para manutenção da privacidade.
